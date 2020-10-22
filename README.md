@@ -16,7 +16,7 @@ The image below represents time series data with movement.
   <img src="https://user-images.githubusercontent.com/30309761/28405466-cbf50f98-6d4a-11e7-909a-ecc6db5b9f6a.png" width="1366" height="677"/>
 </p>
 
-A document explaining the approach along with the code (any programming language) is required for evaluation and should be mailed to gaurav@dozee.io.
+A document explaining the approach along with the code (any programming language) is required for evaluation and should be mailed to hr@dozee.io.
 
 For any clarifiactions please reach out to us at the same email address.
 
